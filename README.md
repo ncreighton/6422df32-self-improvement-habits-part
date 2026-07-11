@@ -1,2 +1,28 @@
-# 6422df32-self-improvement-habits-part
-self improvement professionals waste hours on spending hours building a system before you can actually use it. This fixes that.  Mobile-optimized for Notion iOS and Android — works everywhere you work. Fully documented: every section explained so you know exactly what to customize.  ## What's Included  - Self Improvement &amp; Habits Partnership And Af
+# Self Improvement & Habits Partnership and Affiliate Management Notion Template
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard views | Yes | Yes |
+| Sample data | Yes | Yes |
+| Advanced automations | - | Yes |
+| Custom formulas | - | Yes |
+| Multiple databases | - | Yes |
+| Dashboard views | - | Yes |
+| Video tutorials | - | Yes |
+| Lifetime updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/cNi9AT12DcYI8FG5bucZJ3l)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/cNi9AT12DcYI8FG5bucZJ3l)
+
